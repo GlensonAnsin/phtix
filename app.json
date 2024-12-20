@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "PHTix",
+    "slug": "phtix-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d3bcb0f9-bcb1-4b56-b81d-75970844f541"
+      }
+    },
+    "android": {
+      "package": "com.glensonansin.phtixapp"
+    }
+  }
+}
